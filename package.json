@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "react-scripts": "1.1.4",
-    "url-parse": "^1.4.3"
+    "url-parse": "^1.5.9"
   },
   "scripts": {
     "start": "react-scripts start",
